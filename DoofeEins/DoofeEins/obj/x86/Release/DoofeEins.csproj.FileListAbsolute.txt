@@ -1,0 +1,3 @@
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\obj\x86\Release\DoofeEins.gameScreen.resources
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\obj\x86\Release\DoofeEins.Properties.Resources.resources
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\obj\x86\Release\DoofeEins.csproj.GenerateResource.Cache

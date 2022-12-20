@@ -1,0 +1,13 @@
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\bin\Debug\DoofeEins.exe
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\bin\Debug\DoofeEins.pdb
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\obj\x86\Debug\DoofeEins.Properties.Resources.resources
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\obj\x86\Debug\DoofeEins.csproj.GenerateResource.Cache
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\obj\x86\Debug\DoofeEins.exe
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\obj\x86\Debug\DoofeEins.pdb
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\obj\x86\Debug\DoofeEins.gameScreen.resources
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\obj\x86\Debug\DoofeEins.csprojResolveAssemblyReference.cache
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\bin\Debug\Minecraft.wav
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\bin\Debug\DoofeEins.exe.manifest
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\bin\Debug\DoofeEins.application
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\obj\x86\Debug\DoofeEins.exe.manifest
+C:\Users\fabia\Documents\Schule\Unterricht\Software\Forms\DoofeEins\DoofeEins\obj\x86\Debug\DoofeEins.application
